@@ -45,5 +45,5 @@ Traditional recommendation systems often suggest content based on historical dat
 - 🎬 The Fault in Our Stars | Rating: 7.6
 
 ---
-**Developed by:** [Your Name]  
+**Developed by:** Al Amin Kabir
 **Topic:** Machine Learning & NLP Project
